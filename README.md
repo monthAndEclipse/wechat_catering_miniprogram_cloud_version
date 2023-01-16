@@ -1,0 +1,2 @@
+# wechat_catering_miniprogram_cloud_version
+微信点餐小程序云托管版本，包括后端部分实现
